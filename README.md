@@ -5,9 +5,9 @@ Here are some introduction about me.
 
 - 🔭 I’m currently working on private b2b Magento Commerce Projects 
 - 🌱 I’m currently learning how to share my knowledge
-- 👯 I’m looking to collaborate on Magento Projects 
-- 🤔 I’m looking for help with clients management. 
-- 
+- 👯 I’m looking to collaborate and help eCommerce to grow together  
+- 🤔 I’m looking for help on new leads that we can prove our self.
+- to make use of github so far as next development platform,
 - 📫 How to reach me: ... 
 - ... skype: bojanpc
 - ... You know bojanpc@gmail.com could be lucky chance. 
