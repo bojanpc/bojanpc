@@ -1,19 +1,25 @@
 ### Hi there 👋
 
-I am Bojan and GitHub this is my profile.
+I am Bojan, software developer that have a decade active work and profile on GitHub. 
+Here are some introduction about me.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on private Magento Commerce Projects 
-- 🌱 I’m currently learning latest and greatest.
-- 👯 I’m looking to collaborate on Magento Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ... Please use github@bointsoft.com to get immediate in touch.
-- ... You know its going to bojan@bointsoft.com with 
-- ... few additional cosmetic filters on our google mail 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on private b2b Magento Commerce Projects 
+- 🌱 I’m currently learning how to share my knowledge
+- 👯 I’m looking to collaborate on Magento Projects 
+- 🤔 I’m looking for help with clients management. 
+- 
+- 📫 How to reach me: ... 
+- ... skype: bojanpc
+- ... You know bojanpc@gmail.com could be lucky chance. 
+- ...  
+- 💬 Ask me about how to get rid of rabbit holes.
+- 😄 Pronouns: math 
+-   formula that calculate developers efficiency   
+-   today everybody are developers with 10years experience 
+    you need to choose from big ""competition"" that is real
+    stress each day to get ideas done 
+    correctly or things back in normal.
+- ⚡ Fun fact: yes please ...
 - ... This is acctualy my first public open source commit
-**because** never `README.md` (this file 😄 ) 
+**because** never `README.md` (this file 😄 ) developer pit fail.
+
