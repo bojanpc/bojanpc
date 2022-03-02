@@ -1,25 +1,18 @@
-### Hi there 👋
+Its not about a expensive hourly rate,
+I just value my overtime with 12 years of experience with Magento 1 & Magento 2 on daily basis.
 
-I am Bojan, software developer that have a decade active work and profile on GitHub. 
-Here are some introduction about me.
+Over the years I’ve completed over 1000+ Magento projects for various
+clients covering all Magento aspects.
 
-- 🔭 I’m currently working on private b2b Magento Commerce Projects 
-- 🌱 I’m currently learning how to share my knowledge
-- 👯 I’m looking to collaborate and help eCommerce to get more bigger.  
-- 🤔 I’m looking for help on new leads that we can prove our self.
-- to make use of github so far as next development platform,
-- 📫 How to reach me: ... 
-- ... skype: bojanpc
-- ... You know bojanpc@gmail.com could be lucky chance. 
-- ...  
-- 💬 Ask me about how to get rid of rabbit holes.
-- 😄 Pronouns: math 
--   formula that calculate developers efficiency   
--   today everybody are developers with 10years experience 
-    you need to choose from big ""competition"" that is real
-    stress each day to get ideas done 
-    correctly or things back in normal.
-- ⚡ Fun fact: yes please ...
-- ... This is acctualy my first public open source commit
-**because** never `README.md` (this file 😄 ) developer pit fail.
+I always try to avoid mistakes about project that I accept and never compete with my clients because its out of mind to compete with honest people who pay nice and they are willing to pay more,
+just to make sure business is running and all sides are happy.
 
+So I have decided to help that nice people to have all their creativity and imagination,
+completed on because believe or not, most of businesses that get their shop delivered before everyone else they are on top today.
+I find my self relaxing doing great things helping people to earn, that changed my life.
+Next to that I also covered number of other WordPress, PHP, Custom MVC projects.
+An ambitious problem solver with a passion for online businesses who would like
+to join a team of like-minded developers.
+My experience includes creating logical and innovative solutions to complex problems.
+
+I am a Full Stack Developer, with twelve years of massive proven web development experience, focused on e-commerce.
